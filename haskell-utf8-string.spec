@@ -3,7 +3,7 @@
 
 Name: haskell-%{module}
 Version: 0.2
-Release: %mkrel 2
+Release: %mkrel 4
 Summary: Support for reading and writing UTF8 Strings
 Group: Development/Other
 License: BSD3
