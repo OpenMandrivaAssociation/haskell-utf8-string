@@ -2,8 +2,8 @@
 %define _cabal_setup Setup.lhs
 
 Name: haskell-%{module}
-Version: 0.3.3
-Release: %mkrel 2
+Version: 0.3.6
+Release: %mkrel 1
 Summary: Support for reading and writing UTF8 Strings
 Group: Development/Other
 License: BSD3
